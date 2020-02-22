@@ -23,9 +23,9 @@ How to read all of peoples messages?
 
 http://oyjc.com/nimiq/message
 
-How to write more transaction_message?
+How to write more content in one post?
 
-You need to split your message into multiple messages, 
+You need to split your content into multiple transaction_messages, 
 
 send the second and subsequent messages must starting with +, and your message will follow.
 
@@ -34,7 +34,7 @@ Example:
 
 "Assume I'm more than 64 bytes.... blablabla...endof64. The second text is here blabla"
 
-1,first tx_message: Assume I'm more than 64 bytes.... blablabla...endof64.
+1, first transaction_message: Assume I'm more than 64 bytes.... blablabla...endof64.
 
-2,second tx_msessage:  +The second text is here blabla
+2, second transaction_msessage:  +The second text is here blabla
 
