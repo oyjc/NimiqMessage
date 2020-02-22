@@ -5,7 +5,7 @@ Just like mini notice-board.<br>
 
 ## How to write your messages on Nimiq blockchain?<br> 
 
-Open your Nimiq wallet,<br> 
+Open your Nimiq wallet https://safe.nimiq.com ,<br> 
 
 Send NIM(>=0.00001 NIM) and write transaction_message(=<64 chars) <br>
 
