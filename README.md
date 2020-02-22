@@ -29,7 +29,7 @@ http://oyjc.com/nimiq/message<br><br>
 
 You need to split your content into multiple transaction_messages, <br>
 
-send the second and subsequent messages must starting with +, and your message will follow.<br>
+send the second and subsequent messages must starting with **+**, and your message will follow.<br>
 
 
 Example: <br>
