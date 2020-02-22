@@ -16,6 +16,7 @@ to NQ07 0000 0000 0000 0000 0000 0000 0000 0000
 How to read all of your messages?
 
 http://oyjc.com/nimiq/message?{your_nimiq_address}
+
 http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up
 
 
