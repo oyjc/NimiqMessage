@@ -1,41 +1,41 @@
 # NimiqMessage
 
-Just like mini notice-board.
+Just like mini notice-board.<br>
 
 
-How to write your messages on nimiq blockchain?
+##How to write your messages on nimiq blockchain?<br>
 
-Open your Nimiq wallet, 
+Open your Nimiq wallet,<br> 
 
-Send NIM(>=0.00001 NIM) and write transaction_message(=<64 chars) 
+Send NIM(>=0.00001 NIM) and write transaction_message(=<64 chars) <br>
 
-to NQ07 0000 0000 0000 0000 0000 0000 0000 0000 
-
-
-
-How to read all of your messages?
-
-http://oyjc.com/nimiq/message?{your_nimiq_address}
-
-http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up
+to NQ07 0000 0000 0000 0000 0000 0000 0000 0000 <br>
 
 
-How to read all of peoples messages?
 
-http://oyjc.com/nimiq/message
+##How to read all of your messages?<br>
 
-How to write more content in one post?
+http://oyjc.com/nimiq/message?{your_nimiq_address}<br>
 
-You need to split your content into multiple transaction_messages, 
-
-send the second and subsequent messages must starting with +, and your message will follow.
+http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up<br>
 
 
-Example: 
+##How to read all of peoples messages?<br>
 
-"Assume I'm more than 64 bytes.... blablabla...endof64. The second text is here blabla"
+http://oyjc.com/nimiq/message<br>
 
-1, first transaction_message: Assume I'm more than 64 bytes.... blablabla...endof64.
+How to write more content in one post?<br>
 
-2, second transaction_msessage:  +The second text is here blabla
+You need to split your content into multiple transaction_messages, <br>
+
+send the second and subsequent messages must starting with +, and your message will follow.<br>
+
+
+Example: <br>
+
+"Assume I'm more than 64 bytes.... blablabla...endof64. The second text is here blabla"<br>
+
+1, first transaction_message: Assume I'm more than 64 bytes.... blablabla...endof64.<br>
+
+2, second transaction_msessage:  +The second text is here blabla<br>
 
