@@ -25,7 +25,7 @@ http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up<br><br>
 http://oyjc.com/nimiq/message<br><br>
 
 
-## How to write more content in one post?<br> 
+## How to write/view more content in one post?<br> 
 
 You need to split your content into multiple transaction_messages, <br>
 
