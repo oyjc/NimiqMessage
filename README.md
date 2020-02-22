@@ -9,7 +9,7 @@ Open your Nimiq wallet,<br>
 
 Send NIM(>=0.00001 NIM) and write transaction_message(=<64 chars) <br>
 
-to **NQ07 0000 0000 0000 0000 0000 0000 0000 0000** <br>
+to **NQ07 0000 0000 0000 0000 0000 0000 0000 0000** <br><br>
 
 
 
@@ -17,12 +17,12 @@ to **NQ07 0000 0000 0000 0000 0000 0000 0000 0000** <br>
 
 http://oyjc.com/nimiq/message?{your_nimiq_address}<br>
 
-http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up<br>
+http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up<br><br>
 
 
 ## How to read all of peoples messages?<br>
 
-http://oyjc.com/nimiq/message<br>
+http://oyjc.com/nimiq/message<br><br>
 
 
 ## How to write more content in one post?<br> 
