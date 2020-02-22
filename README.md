@@ -3,7 +3,7 @@
 Just like mini notice-board.<br>
 
 
-##How to write your messages on nimiq blockchain?<br>
+##How to write your messages on nimiq blockchain?<br>##
 
 Open your Nimiq wallet,<br> 
 
@@ -13,14 +13,14 @@ to NQ07 0000 0000 0000 0000 0000 0000 0000 0000 <br>
 
 
 
-##How to read all of your messages?<br>
+##How to read all of your messages?<br>##
 
 http://oyjc.com/nimiq/message?{your_nimiq_address}<br>
 
 http://oyjc.com/nimiq/message?{your_nimiq_address}&sort=up<br>
 
 
-##How to read all of peoples messages?<br>
+##How to read all of peoples messages?<br>##
 
 http://oyjc.com/nimiq/message<br>
 
