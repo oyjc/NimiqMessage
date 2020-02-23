@@ -38,5 +38,9 @@ Example: <br>
 
 1, first transaction_message: Assume I'm more than 64 bytes.... blablabla...endof64.<br>
 
-2, second transaction_msessage:  +The second text is here blabla<br>
+2, second transaction_msessage:  +The second text is here blabla<br><br>
+
+## Usecase ## <br>
+Usecase 1: after the newbie get 1 NIM from faucet, can post on notice-board via use NIM.<br>
+Usecase 2: some bots can post logs, the logs can't be change.<br>
 
