@@ -14,7 +14,7 @@ to **NQ07 0000 0000 0000 0000 0000 0000 0000 0000** <br><br>
 
 
 ## How to read all of your messages?<br>
-*todo: If you want to dev the client, commit to here*<br>
+*Todo: if you want to dev the client, commit to here*<br>
 http://oyjc.com/nimiq/message/adr/{your_nimiq_address}<br>
 
 http://oyjc.com/nimiq/message/adr/{your_nimiq_address}?sort=up<br><br>
