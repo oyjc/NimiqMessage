@@ -1,6 +1,6 @@
 # NimiqMessage
 
-Just like mini notice-board.<br>
+Just like mini notice-board.<br><br>
 
 
 ## How to write your messages on Nimiq blockchain?<br> 
