@@ -42,7 +42,16 @@ Example: <br>
 
 2, second transaction_msessage:  +The second text is here blabla<br><br>
 
+## How do you "like" one post? <br>
+
+Todo...
+Click "like" , Hub.nimiq.com will open a window where you can send NIM to the post author: <br>
+ >=0.00001 NIM and POST_TX_HASH (Hub auto bring the post transaction_hash to the message input box) <br>
+ after that, we can total how many peoples(nimiq_address) "like" one post. ^-^<br><br>
+
+
 ## Usecase <br>
 Usecase 1: after the newbie get 1 NIM from faucet, can post on notice-board via use NIM.<br>
-Usecase 2: some bots can post logs, the logs can't be change.<br>
+Usecase 2: some bots can post logs, the logs can't be change.<br><br>
+
 
