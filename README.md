@@ -46,7 +46,7 @@ Example: <br>
 
 Todo...
 Click "like" , Hub.nimiq.com will open a window where you can send NIM to the post author: <br>
- >=0.00001 NIM and POST_TX_HASH (Hub auto bring the post transaction_hash to the message input box) <br>
+which contains: >=0.00001 NIM and POST_TX_HASH (Hub auto bring the post transaction_hash to the message input box) <br>
  after that, we can total how many peoples(nimiq_address) "like" one post. ^-^<br><br>
 
 
